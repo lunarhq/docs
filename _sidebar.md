@@ -1,9 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-
-- Introduction
-    - [Getting Started](introduction/getting-started.md)
+* [Introduction](/)
 
 - Data
     - [Overview](data/overview.md)
