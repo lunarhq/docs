@@ -24,8 +24,20 @@ Example Response
 {
     "network_identifiers": [
         {
-            "blockchain": "Bitcoin",
-            "network": "Testnet3"
+            "blockchain": "cardano",
+            "network": "testnet"
+        },
+        {
+            "blockchain": "cardano",
+            "network": "mainnet"
+        },
+        {
+            "blockchain": "vechainthor",
+            "network": "main"
+        },
+        {
+            "blockchain": "vechainthor",
+            "network": "test"
         }
     ]
 }

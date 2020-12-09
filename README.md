@@ -26,22 +26,42 @@ headers: {
 
 Our growing list of supported Network Identifiers:
 
-- Bitcoin Testnet
+- Cardano Testnet
 ```json
 {
         "network_identifier": {
-            "blockchain": "Bitcoin",
-            "network": "Testnet3"
+            "blockchain": "cardano",
+            "network": "testnet"
         },
 }
 ```
 
-- Bitcoin Mainnet
+- Cardano Mainnet
 ```json
 {
         "network_identifier": {
-            "blockchain": "Bitcoin",
-            "network": "Mainnet"
+            "blockchain": "cardano",
+            "network": "mainnet"
+        },
+}
+```
+
+- Vechain Testnet
+```json
+{
+        "network_identifier": {
+            "blockchain": "vechainthor",
+            "network": "test"
+        },
+}
+```
+
+- Vechain Mainnet
+```json
+{
+        "network_identifier": {
+            "blockchain": "vechainthor",
+            "network": "main"
         },
 }
 ```
