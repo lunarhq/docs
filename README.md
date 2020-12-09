@@ -5,7 +5,7 @@
 Using Lunar, you can query multiple blockchains with consistent requests and responses. How do you we do this?
 At Lunar, we run Rosetta Nodes, which use a standardized set of requests and responses, no matter the blockchain.
 
-We have an open source TypeScript client which can be found on our [Github](https://github.com/lunarhq/lunar-clients-ts).
+We have an open source TypeScript client which can be found on our [Github](https://github.com/lunarhq/rosetta-ts-client).
 A Golang client is coming soon.
 
 Our base api endpoint is `'https://api.lunar.dev/v1'`. All requests are POST requests.
